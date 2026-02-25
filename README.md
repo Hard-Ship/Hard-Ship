@@ -1,6 +1,6 @@
 👋 Hi there , keep shipping! 🚀
 
-<h3>When I build Android apps, I rely on</h3>
+<h3>Tech Stack 🤖</h3>
 <p>
 
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
@@ -30,4 +30,10 @@
   <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+</p>
+
+<h3>🚀 Have a Look at My Products</h3>
+
+<p>
+  🔗 <a href="https://play.google.com/store/apps/details?id=com.app.audogen" target="_blank"><b>Audogen</b></a> — Ai media kit.
 </p>
