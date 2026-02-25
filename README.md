@@ -32,7 +32,7 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<h3>🚀 Have a Look at My Products</h3>
+<h3> 👀 Have a Look</h3>
 
 <p>
   🔗 <a href="https://play.google.com/store/apps/details?id=com.app.audogen" target="_blank"><b>Audogen</b></a> — Ai media kit.
